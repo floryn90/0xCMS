@@ -19,10 +19,10 @@ $configuration['db_encoding'] = 1;
 
 // edit the information below to match your database settings
 
-$configuration['db']	= 'bnegkcit_0xcms';		//	<- database name
-$configuration['host'] 	= 'mysql.netsons.com';	//	<- database host
-$configuration['user'] 	= 'bnegkcit_0xcms';		//	<- database user
-$configuration['pass']	= '0xCMS2013';		//	<- database password
+$configuration['db']	= '';		//	<- database name
+$configuration['host'] 	= '';	//	<- database host
+$configuration['user'] 	= '';		//	<- database user
+$configuration['pass']	= '';		//	<- database password
 $configuration['port']	= '3306';		//	<- database port
 
 
