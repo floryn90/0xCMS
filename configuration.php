@@ -34,7 +34,7 @@ $configuration['proxy_password'] = false;
 
 
 //plugin settings
-$configuration['plugins_path'] = '/home/bnegkcit/public_html/0xCMS/plugins';  //absolute path to plugins folder, e.g c:/mycode/test/plugins or /home/phpobj/public_html/plugins
+$configuration['plugins_path'] = '';  //absolute path to plugins folder, e.g c:/mycode/test/plugins or /home/phpobj/public_html/plugins
 
 //site Configuration
 $configuration['title']="0xCMS";
